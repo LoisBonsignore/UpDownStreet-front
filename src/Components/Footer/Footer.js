@@ -6,7 +6,7 @@ import React from 'react'
 function Footer() {
     return (
         <div className="footer">
-            <p>Les truc a mettre dans le footer</p>
+            <p>UpperTown</p>
         </div>
     )
 }
